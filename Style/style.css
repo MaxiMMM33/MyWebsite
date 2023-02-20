@@ -1,0 +1,9 @@
+@import "card.css";
+@import	"banner.css";
+@import "footer.css";
+body{ 
+	margin:0px;
+ }
+ a{
+ 	text-decoration: none;
+ }
